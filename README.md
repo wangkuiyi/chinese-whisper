@@ -10,3 +10,6 @@ input to the channel to its right.
 This projects contains implementations of Chinese Whispers in various
 languages.  And can be used to test thread models of language
 implementations.
+
+If you want to have a look at more implementations of Chinese 
+Whispers, please refer to [my blog post](http://cxwangyi.wordpress.com/2012/07/29/chinese-whispers-in-racket-and-go/).
